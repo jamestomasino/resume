@@ -20,8 +20,8 @@
 
 (function (w, d) {
   w.addEventListener('load', function () {
-    var t = d.getElementById('front-end-web-developer');
-    var h = d.querySelectorAll('#stephen-tudor > h1')[0];
+    var t = d.getElementById('technology-director-csm');
+    var h = d.querySelectorAll('#james-tomasino> h1')[0];
     t.addEventListener('mouseover', function (e) {
       if (!h.classList) return;
       h.classList.add('active');

@@ -206,6 +206,7 @@ Interests
 ---------
 
 - Being a dad and spending time with my family
+- [Creating worlds](http://map.tomasino.org/) for books and games
 - Playing [board and card games](http://boardgamegeek.com/user/tomasino) (and video games, too)
 - Watching and contributing to Open Source Software
 

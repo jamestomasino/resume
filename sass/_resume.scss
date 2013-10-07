@@ -43,7 +43,7 @@
   @include box-sizing(border-box);
   margin-left: 0;
   padding: 1em 0 0.5em 1em;
-  width: 19em;
+  width: 22em;
   @include respond-to(large-screen) {
     border-top: none;
     @include border-top-radius(0);
