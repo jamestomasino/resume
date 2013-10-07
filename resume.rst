@@ -233,6 +233,7 @@ Interests
 ---------
 
 -  Being a dad and spending time with my family
+-  `Creating worlds <http://map.tomasino.org/>`__ for books and games
 -  Playing `board and card
    games <http://boardgamegeek.com/user/tomasino>`__ (and video games,
    too)
