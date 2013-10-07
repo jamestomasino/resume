@@ -19,7 +19,7 @@ namespace :html do
   desc "Generate standalone HTML file"
   task :generate => [:styles] do
     puts "Generating standalone HTML file from Markdown"
-    system("pandoc -s -S resume.markdown -o resume.html -t html5 --self-contained --section-divs --template=resume-template.html -T \"Stephen Tudor's Resume\" -c css/main.css")
+    system("pandoc -s -S resume.markdown -o resume.html -t html5 --self-contained --section-divs --template=resume-template.html -T \"James Tomasino's Resume\" -c css/main.css")
     system("cp resume.html index.html")
     puts "Done"
   end
@@ -116,15 +116,6 @@ task :all => [
   "docbook:generate",
   "readme"
 ]
-
-desc "Transfer resume files to web"
-task :web do
-  puts "Transferring files to web..."
-  path = "smt@s17r.com:s17r.com/public"
-  system("scp resume.* index.html #{path}/resume")
-  system("scp index.html #{path}")
-  puts "Done"
-end
 
 desc "Commit change"
 task :ci do

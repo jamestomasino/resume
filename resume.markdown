@@ -1,150 +1,148 @@
-Stephen Tudor
+James Tomasino
 =============
 
-Front-end Web Developer
+Technology Director, CSM
 -----------------------
 
-- Phone: [610-590-4484](tel://610-590-4484)
-- Email: [smt@stephentudor.com](mailto://smt@stephentudor.com)
-- Blog: [stephentudor.com](http://stephentudor.com)
-- Github: [smt](http://github.com/smt)
-- Twitter: [@tudorstudio](http://twitter.com/tudorstudio)
-
+- Phone: [410.929.3008](tel://410-929-3008)
+- Email: [resume@jamestomasino.com](mailto://resume@jamestomasino.com)
+- Labs: [labs.tomasino.org](http://labs.tomasino.org)
+- Blog: [tomasinoblog.com](http://tomasinoblog.com)
+- Github: [jamestomasino](http://github.com/jamestomasino)
+- Twitter: @[mr_ino](http://twitter.com/mr_ino)
 
 Summary
 -------
 
-I am an experienced front-end developer who has led development for multiple
-successful $1MM+ projects. I am passionate about building high quality apps and
-user interfaces with modern web technologies. Through being conversant in
-server-side engineering, visual/UX design, and project management practices,
-I am able to execute end-to-end on a product or project.
+Lead interactive developer and designer with broad experience in a variety of 
+software packages, languages, and techniques. Particular affinity for coding 
+and architecting complex interactive experiences. Interested in opportunities
+with management of interactive and creative teams while providing architectural 
+support during development.
 
 
 Specialties
 -----------
 
-Authoring great user experiences with JavaScript, HTML, and CSS, the pillars of
-front-end development. Managing and mentoring junior web developers. Writing
-white papers and API documentation. Experienced in the black art of software
-estimation, particularly as it pertains to the client side. Offers a strong
-background in many diverse web technologies and frameworks.
-
+Leading a diverse team of developers via cross-training, cooperation and skill
+building. Flash Actionscript 2 & 3, XML, HTML, CSS, JavaScript, Interactive Design, 
+Usability, Experience Design, Object Oriented Design, Adobe, Macromedia and
+Microsoft Authoring Tools
 
 Experience
 ----------
 
-### **Senior Software Engineer** at [EPAM Empathy Lab](http://epam.com/empathylab)
+### **Technology Director, CSM** at [GSW](http://gsw-w.com)
 
-*December 2012 - Present*
+*February 2013 - Present*
 
-Championing a more collaborative process for responsive web design between the
-UX and development disciplines. Curating an internal static web framework and
-responsive pattern library to be used on multiple projects. Leading development
-on responsive prototypes for NBC Universal, DIRECTV, AIG, Lionsgate, and the
-USA Network.
+Manage team of developers on a variety of mobile and web projects across 
+multiple brands and strategies. Key component in discovery of new technologies 
+and their applicability to brands. Leader in pitch work, strategic planning, 
+and high level technical discussions with partners and clients. Client and 
+team technology educator.
 
-### **Senior Web Developer** at [Empathy Lab](http://empathylab.com)
+### **Senior Multimedia Developer** at [GSW](http://gsw-w.com)
 
-*April 2010 - December 2012*
+*June 2011 - February 2013* (1 year 9 month)
 
-Created front-end web applications on tight deadlines for marquee clientele.
-Responsible for estimating work, vetting UX designs prior to development,
-developing key features, assisting team members on challenging sections of
-code, performing code reviews, and coordinating releases.
+Interactive web, mobile, and tablet experiences for a variety of pharmaceutical
+brands. Developed iPad and Android tablet sales pieces. Led teams building rich 
+informational applications for the web in HTML5 and Flash, and in a variety of
+mobile platforms. Coached and trained other developers to increase the team’s 
+productivity and effectiveness. Was trained and mentored toward management 
+roles.
 
-### **Web Developer** at [Empathy Lab](http://empathylab.com)
+### **Jesuit Novice** at [Society of Jesus](http://jesuit.org)
 
-*April 2009 - April 2010* (1 year 1 month)
+*August 2010 - March 2011* (7 months)
 
-Authored standards-based HTML, CSS, and JavaScript for websites representing
-a broad range of internationally recognized brands: Sesame Street, Sprout,
-Lexmark, StrideRite, Walgreens, Verizon, Comcast, 21st Century Insurance,
-Liberty Global, American Red Cross.
+Rigorous prayer & study life with an dual focus on contemplative prayer and 
+applying that lifestyle through a variety of social apostolates including 
+teaching in a Catholic grade school and pastoral care to terminally ill 
+hospice patients. Studis included a survey of the history of religious life, 
+the foundational documents of the Society of Jesus, and both theory and 
+practice at the art of communal life.
 
-### **IT Director** at [Artisan Custom Doorworks](http://artisandoorworks.com)
+### **Flash Developer** at [Empathy Lab](http://www.epam.com/empathylab.html)
 
-*December 2005 - April 2009* (3 years 5 months)
+*July 2009 - July 2010* (1 year)
 
-Designed the corporate website with a library of over 8,000 searchable PDF
-docemunts. Developed in-house sales and management application in Rails, while
-supporting and customizing business systems and applications.
+Developed interactive games, microsites, user experiences, and animations for 
+companies like Sprout, Lexmark, Sesame Street and many more. Developed a large 
+scale streaming video application built off Adobe's Open Source Media 
+Framework, Akamai's Open Video Player, utilizing PureMVC and a variety of 
+custom made tracking tools for integrating Omniture, Comscore, Google 
+Analytics, and others.
 
-### **President** at [Tudor Studio](http://tudorstudio.com)
+### **Senior New Media Developer** at [Moxie Interactive](http://moxieinteractive.com)
 
-*January 2002 - Present*
+*August 2007 - July 2009* (2 years)
 
-Providing professional web consulting and development services, from
-individuals and small businesses to Fortune 500 companies. Designing and
-developing hosted web applications with open source frameworks like Ruby on
-Rails. Integrating CMS and eCommerce applications.
+Developed frameworks for rich landing pages, advertising campaigns, and 
+product spotlights. Built rich media banners, websites, social networking 
+applications and landing pages for clients such as Coke, Home Depot, Verizon,
+Verizon Wireless, Fox, UPS and Maybelline. Lead and architected large-scale 
+web marketing campaigns while managing the development team.
 
-### **Systems Engineer** at Lockheed Martin Global Telecommunications (defunct)
+### **Multimedia Specialist** at [Pango Media](http://pangomedia.com)
 
-*May 2000 - January 2002* (1 year 9 months)
+*June 2006 - August 2007* (1 year 4 months)
 
-Performed Unix system administration duties for an internal R&D project's data
-center. Configured and managed a cluster of web servers through the duration of
-the project. Company ceased operations in early 2002.
+Responsible for management, design and development of web sites, interactive 
+CDs, mobile and desktop applications, Flash, and print materials.
+
+### **Developer** at [Medical Animatics, Inc](http://www.medicalanimatics.com/)
+
+*September 2005 - June 2006* (10 months)
+
+Developed ongoing Flash applications and server-side scripting & database
+design. Designed digital and print media for use in large scale products.
+
+### **Nuclear Electronics Technician** at [US Navy](http://www.netc.navy.mil/nnptc/)
+
+*March 2000 - June 2001* (1 year 4 Months)
+
+Trained as a nuclear reactor operator of the Naval surface fleet.
 
 
 Skills & Expertise
 ------------------
 
-These are languages, tools, and practices to which I have had exposure over the
-past 6 years or so. Those things which enjoy routine usage in my daily work are
+Those things which enjoy routine usage in my daily work are
 denoted with a ^†^ symbol.
 
 ### Programming Languages
 
 - [JavaScript](http://developer.mozilla.org/en/JavaScript)^†^
-- [PHP](http://php.net)
+- [PHP](http://php.net)^†^
 - [Python](http://python.org)
-- [Ruby](http://ruby-lang.org)^†^
+- [Ruby](http://ruby-lang.org)
 
 ### Markup/Templating Languages & Preprocessors
 
 - [CoffeeScript](http://coffeescript.org)
 - [CSS](http://www.w3.org/Style/CSS/Overview.en.html)^†^
-- [Dust.js](http://linkedin.github.com/dustjs)
-- [ERB/eRuby](http://en.wikipedia.org/wiki/ERuby)
 - [Haml](http://haml.info)
 - [Handlebars.js](http://handlebarsjs.com)
 - [HTML](http://developers.whatwg.org)^†^
-- [Jade](http://jade-lang.com)
-- [JSP](http://www.oracle.com/technetwork/java/javaee/jsp)
-- [JSTL](http://docs.oracle.com/javaee/5/tutorial/doc/bnakc.html)^†^
-- [LESS](http://lesscss.org)^†^
-- [Liquid](http://liquidmarkup.org)
+- [LESS](http://lesscss.org)
 - [Markdown](http://daringfireball.net/projects/markdown)^†^
 - [Mustache](http://mustache.github.com)
 - [Sass](http://sass-lang.com)^†^
-- [Smarty](http://smarty.net)
-- [Stylus](http://learnboost.github.com/stylus)
 
 ### Frameworks & APIs
 
-- [Backbone.js](http://documentcloud.github.com/backbone)^†^
-- [Bower](http://twitter.github.com/bower)
-- [Buster.js](http://busterjs.org)
+- [Backbone.js](http://documentcloud.github.com/backbone)
 - [Compass](http://compass-style.org)^†^
 - [CodeIgniter](http://codeigniter.com)
-- [Django](http://www.djangoproject.com)
-- [Dojo](http://dojotoolkit.org)
-- [FaceBook Open Graph](http://developers.facebook.com)
-- [Gigya](http://developers.gigya.com)
 - [Google Maps API](http://developers.google.com/maps)
 - [jQuery](http://jquery.com)^†^
 - [Meteor](http://meteor.com)
-- [Middleman](http://middlemanapp.com)
-- [Node.js](http://nodejs.org)
-- [Prototype.js](http://prototypejs.org)
-- [Require.js](http://requirejs.org)^†^
+- [Require.js](http://requirejs.org)
 - [Ruby on Rails](http://rubyonrails.org)
-- [Sinatra](http://sinatrarb.com)
 - [Twitter API](http://dev.twitter.com)
 - [Wordpress](http://wordpress.org)
-- [YUI](http://developer.yahoo.com/yui)
 
 ### Software & Tools
 
@@ -152,51 +150,67 @@ denoted with a ^†^ symbol.
 - [Amazon Web Services](http://aws.amazon.com)
 - [Apache](http://apache.org)^†^
 - [Apple XCode](http://developer.apple.com)
-- [Demandware](http://demandware.com)
 - [Git](http://git-scm.com)^†^
-- [Grunt](http://gruntjs.com)
-- [JBoss](http://jboss.org)
-- [JIRA](http://atlassian.com/software/jira)^†^
+- [JIRA](http://atlassian.com/software/jira)
 - [Mac OS X](http://apple.com/macosx)^†^
-- [MongoDB](http://mongodb.org)
 - [MySQL](http://mysql.com)
-- [Nginx](http://wiki.nginx.org)
-- [Oracle ATG](http://www.oracle.com/us/products/applications/web-commerce/atg)
 - [Pandoc](http://johnmacfarlane.net/pandoc)
-- [PostgreSQL](http://postgresql.org)
 - [rvm](http://rvm.beginrescueend.com)^†^
 - [Sublime Text](http://www.sublimetext.com)
 - [Subversion](http://svn.apache.org)
-- [tmux](http://tmux.sourceforge.net)^†^
-- [Tomcat](http://tomcat.apache.com)
+- [tmux](http://tmux.sourceforge.net)
 - [Ubuntu Linux](http://ubuntu.com)
-- [Vagrant](http://vagrantup.com)
 - [Vim](http://www.vim.org)^†^
-- [VirtualBox](http://virtualbox.org)
 - [Yeoman](http://yeoman.io)
-- [zsh](http://www.zsh.org)^†^
+- [zsh](http://www.zsh.org)
 
 Education
 ---------
 
-[Saint Joseph's University](http://sju.edu), Erivan K. Haub School of Business    
-BS, Information Systems, 1996 - 2000
+[Indiana University](http://iupui.edu), School of Informatics
+MS, Media Arts and Sciences, 2005 - 2006
+
+[Indiana University](http://iupui.edu), School of Informatics
+BS, Media Arts and Sciences, 2002 - 2004
 
 Honors and Awards
 -----------------
 
-*Unsung Hero*, Empathy Lab, May 2011    
-A peer-awarded honor which I'll always be terribly proud to have won.
+- *Atlanta Addy Awards 2009*
+    - Gold: Website Flash, Online (Fight for Gotham City)
+
+- *IMA Awards 2008*
+    - Outstanding Achievement Award: Telecommunications category (Fight For Gotham City)
+
+- *Create Awards 2008*
+    - Silver Award: Interactive Web Elements, Banners/Tiles category (20th Century Fox Jumper DVD)
+
+- *Atlanta Addy Awards 2008*
+    - Silver: Interactive Media, Online (The Home Depot Kitchens)
+    - Silver: Interactive Media, Online (Verizon Wireless Oddcast/Pop, Lock and Send)
+    - Bronze: Interactive Media, Online (The Home Depot Holiday)
+
+- *The Webby Awards 2008 *
+    - Official Honoree: Interactive/Rich Media Advertising: Business-to-Consumer (Verizon Wireless Next Phones Now)
+
+- *Atlanta ADDYs ShowSouth 2007*
+    - Silver: Microsite (The Home Depot Holiday)
+    - Silver: Website (Verizon Wireless Motorola Q Launch)
+
+- *Atlanta AMA AMY Awards 2007*
+    - Winner: Web/Interactive Use of Multimedia/New Media (Verizon Wireless Chocolate Launch)
+    - Winner: Web/Interactive Generating Online Sales (The Home Depot Holiday Microsite)
+
 
 Interests
 ---------
 
 - Being a dad and spending time with my family
-- Playing [board and card games](http://boardgamegeek.com/user/smtudor) (and video games, too)
-- Making and listening to [music](http://www.rdio.com/people/smtudor)
+- Playing [board and card games](http://boardgamegeek.com/user/tomasino) (and video games, too)
 - Watching and contributing to Open Source Software
 
 <br>
 <br>
 <br>
-©2013 [Stephen Tudor](http://s17r.com/resume). All rights reserved. Direct contact only desired (no&nbsp;recruiters please).
+©2013 [James Tomasino](http://jamestomasino.com/resume). All rights reserved. Direct contact only desired (no&nbsp;recruiters please).
+
